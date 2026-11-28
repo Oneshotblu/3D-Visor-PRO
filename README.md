@@ -56,3 +56,23 @@ eDrawings files are supported:
 They are read using the open-source `edrawings-kit` library, licensed under Apache License 2.0. See the `licenses` folder for attribution and license details.
 
 eDrawings support is available in the Windows application only and is not included in the web preview.
+
+Satispay
+
+Send a voluntary donation to:
+
+@filippopanza
+
+Scan the QR code below:
+
+![Satispay donation QR code](assets/satispay-qr.png)
+
+PayPal
+
+Prefer PayPal? Scan the QR code below to make a voluntary contribution:
+
+![PayPal donation QR code](assets/paypal-qr.png)
+
+Thanks for your support!
+
+Developed independently by Oneshotblu. Made with passion, shared freely.
